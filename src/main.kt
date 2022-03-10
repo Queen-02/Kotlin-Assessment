@@ -15,7 +15,7 @@ fun main() {
 }
  fun strings(){
     var name = "codeHive"
-    var char = name[4].toString() + name[5] + name[6]
+    var char = name[4].toString() + name[5] + name[6] + name[7]
      println(char)
  }
 
